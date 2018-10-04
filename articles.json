@@ -1,14 +1,23 @@
-[
-  {
+[{
     "category": "computer",
-    "name": "sam",
-    "title": "sam is a man",
-    "created_at": "2018"
+    "articles": [{
+        "name": "sam",
+        "title": "sam is a man",
+        "created_at": "2018"
+      },
+      {
+        "name": "sam2",
+        "title": "sam is a man2",
+        "created_at": "2018-10-20"
+      }
+    ]
   },
   {
-    "category": "computer",
-    "name": "test",
-    "title": "test it",
-    "created_at": "2018-09-10"
+    "category": "test",
+    "articles": [{
+      "name": "test",
+      "title": "sec category",
+      "created_at": "2018"
+    }]
   }
 ]
