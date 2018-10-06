@@ -1,7 +1,21 @@
 # How to write markdown text
+
 ## Author: Linus Peng
+
 ## Created at: 2018/10/06 11pm
--------
+
+---
+
+1. sdsdsd
+2. dsdds
+3. dssddsd
+
+- sdsdsdsd
+  + sdsdsdsd
+  + sdsdcndcjndjcd
+  + dsjdnksndk
+    1. sdsdsdsd
+    2. sdcjsdncdcnd
 
 ### Bold: **Text**
 **Text**
@@ -44,6 +58,9 @@
 - Item
 ```
 
+- [x] checked list item
+- [ ] unchecked list item
+
 ### Image: ![alt](http://)
 ![alt](https://imgur.com/a/0xXfOjQ)
 
@@ -61,11 +78,16 @@ Thanks {%first_name%}!`
 ### Blockquote: > quote
 > quote
 
-### H1: # Heading1
-# Heading1
+# H1: # Heading1
 
-### H2: ## Heading2
-## Heading2
+## H2: ## Heading2
 
-### H4: ### Heading3
-### Heading3
+### H3: ### Heading3
+
+#### H4: #### Heading4
+
+##### H5: ##### Heading5
+
+###### H6: ###### Heading6
+
+##### H5: ##### Heading5
