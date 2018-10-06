@@ -1,33 +1,17 @@
-# How to write markdown text
-
-## Author: Linus Peng
-
-## Created at: 2018/10/06 11pm
+### How to write markdown text
+#### Author: Linus Peng
+#### Created at: 2018/10/06 11pm
 
 ---
 
-1. sdsdsd
-2. dsdds
-3. dssddsd
-
-- sdsdsdsd
-  + sdsdsdsd
-  + sdsdcndcjndjcd
-  + dsjdnksndk
-    1. sdsdsdsd
-    2. sdcjsdncdcnd
-
-### Bold: **Text**
+### Bold: \*\*Text\*\*
 **Text**
 
-### Emphasize: *Text*
+### Emphasize: \*Text\*
 *Text*
 
-### Strike-through: ~~Text~~
-~~Text~~
-
-### Link: [title](http://)
-[title](https://linusmelb.github.io)
+### Link: \[title\]\(http://\)
+[Linus's Blog](https://linusmelb.github.io/blogs/index.html)
 
 ### Inline code: `code`
 ```
@@ -52,28 +36,20 @@
 ]
 ```
 
-```md
-* Item
-+ Item
-- Item
-```
-
-- [x] checked list item
-- [ ] unchecked list item
+==Highlight==
 
 ### Image: ![alt](http://)
-![alt](https://imgur.com/a/0xXfOjQ)
+![alt](https://blog.codinghorror.com/content/images/2015/03/ghost-markdown-help.png)
 
-### Inline code: `code`
-`Hello {%first_name%} {%last_name%},
-Your shipment of {%item%} is now ready to pick up.
-Thanks {%first_name%}!`
-
-### List: * item
+### Unordered List: * item
 * item1
 * item2
 * item3
 
+### Ordered: 1.2.3.item
+1. item1
+2. item2
+3. item3
 
 ### Blockquote: > quote
 > quote
@@ -89,5 +65,3 @@ Thanks {%first_name%}!`
 ##### H5: ##### Heading5
 
 ###### H6: ###### Heading6
-
-##### H5: ##### Heading5
