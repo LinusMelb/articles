@@ -16,7 +16,33 @@
 [title](https://linusmelb.github.io)
 
 ### Inline code: `code`
-`code`
+```
+[{
+    "category": "Blog",
+    "articles": [
+      {
+        "name": "selfIntro.md",
+        "title": "Introduction of myself",
+        "created_at": "2018-10-04 6:18pm"
+      }
+    ]
+  },
+  {
+    "category": "test",
+    "articles": [{
+      "name": "test",
+      "title": "sec category",
+      "created_at": "2018"
+    }]
+  }
+]
+```
+
+```md
+* Item
++ Item
+- Item
+```
 
 ### Image: ![alt](http://)
 ![alt](https://imgur.com/a/0xXfOjQ)
