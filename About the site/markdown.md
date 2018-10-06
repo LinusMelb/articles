@@ -1,5 +1,5 @@
 ### Style and usage of markdown of the site
-#### Created at: 2018/10/06 11pm
+#### 2018/10/06 11pm
 #### Author: Linus Peng
 
 ---
