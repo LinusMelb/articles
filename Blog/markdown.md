@@ -3,6 +3,10 @@
 #### Created at: 2018/10/06 11pm
 
 ---
+### Newline \<br\> or double space or double line break
+Here uses double space  
+to create a new line
+
 
 ### Bold: \*\*Text\*\*
 **Text**
@@ -56,14 +60,5 @@
 
 ###### H6: ###### Heading6
 
-
-This is normal Text
-
-
-It's will be interpreted as
-
-
-This is normal Text<br>It's will be interpreted as
-
-This is normal Text  
-It's will be interpreted as
+<br>
+This is normal Text. It's will be interpreted as <p></p>
