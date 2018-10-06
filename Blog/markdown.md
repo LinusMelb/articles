@@ -1,6 +1,7 @@
 # How to write markdown text
 ## Author: Linus Peng
 ## Created at: 2018/10/06 11pm
+-------
 
 ### Bold: **Text**
 **Text**
@@ -21,7 +22,9 @@
 ![alt](https://imgur.com/a/0xXfOjQ)
 
 ### Inline code: `code`
-`code`
+`Hello {%first_name%} {%last_name%},
+Your shipment of {%item%} is now ready to pick up.
+Thanks {%first_name%}!`
 
 ### List: * item
 * item1
