@@ -1,4 +1,4 @@
-### How to write markdown text
+### *Style and usage of markdown of the site*
 #### Author: Linus Peng
 #### Created at: 2018/10/06 11pm
 
