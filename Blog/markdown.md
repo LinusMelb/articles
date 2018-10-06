@@ -56,5 +56,14 @@
 
 ###### H6: ###### Heading6
 
-This is normal Text\
-It's will be interpreted as <p></p>
+
+This is normal Text
+
+
+It's will be interpreted as
+
+
+This is normal Text<br>It's will be interpreted as
+
+This is normal Text  
+It's will be interpreted as
