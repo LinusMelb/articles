@@ -1,18 +1,1 @@
-[{
-    "category": "Blog",
-    "articles": [{
-        "name": "selfIntro.md",
-        "title": "Introduction of myself",
-        "created_at": "2018-10-04 6:18pm"
-      }
-    ]
-  },
-  {
-    "category": "test",
-    "articles": [{
-      "name": "test",
-      "title": "sec category",
-      "created_at": "2018"
-    }]
-  }
-]
+[{"articles": [{"name": "markdown.md", "title": "Style and usage of markdown of the site", "created_at": "Created at: 2018/10/06 11pm"}, {"name": "selfIntro.md", "title": "Personal profile", "created_at": "2018/10/06 11pm"}], "category": "Blog"}]

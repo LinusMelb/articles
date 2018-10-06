@@ -1,6 +1,6 @@
-### *Style and usage of markdown of the site*
-#### Author: Linus Peng
+### Style and usage of markdown of the site
 #### Created at: 2018/10/06 11pm
+#### Author: Linus Peng
 
 ---
 ### Newline <br\> or double space or double line break
