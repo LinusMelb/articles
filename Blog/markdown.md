@@ -19,10 +19,9 @@ to create a new line
 
 ### TaskLists `- [x] checked list item - [ ] unchecked list item`
 
-```md
  - [x] checked list item
  - [ ] unchecked list item
-```
+
 
 ## Emojis
 
