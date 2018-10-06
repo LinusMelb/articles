@@ -3,7 +3,7 @@
 #### Created at: 2018/10/06 11pm
 
 ---
-### Newline \<br\> or double space or double line break
+### Newline <br\> or double space or double line break
 Here uses double space  
 to create a new line
 
@@ -13,6 +13,23 @@ to create a new line
 
 ### Emphasize: \*Text\*
 *Text*
+
+### Emphasize: ~~`Text`~~
+~~strikethrough~~
+
+### TaskLists `- [x] checked list item - [ ] unchecked list item`
+
+```md
+ - [x] checked list item
+ - [ ] unchecked list item
+```
+
+## Emojis
+
+```md
+this is a :smile: smile emoji
+```
+this is a :smile: smile emoji
 
 ### Link: \[title\]\(http://\)
 [Linus's Blog](https://linusmelb.github.io/blogs/index.html)
@@ -61,4 +78,4 @@ to create a new line
 ###### H6: ###### Heading6
 
 <br>
-This is normal Text. It's will be interpreted as <p></p>
+This is normal Text. It's will be interpreted as \<p>\</p>
