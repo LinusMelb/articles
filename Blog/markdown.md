@@ -13,7 +13,7 @@
 ### Link: \[title\]\(http://\)
 [Linus's Blog](https://linusmelb.github.io/blogs/index.html)
 
-### Inline code: `code`
+### Inline code: \`\`\`code\`\`\`
 ```
 [{
     "category": "Blog",
@@ -24,21 +24,10 @@
         "created_at": "2018-10-04 6:18pm"
       }
     ]
-  },
-  {
-    "category": "test",
-    "articles": [{
-      "name": "test",
-      "title": "sec category",
-      "created_at": "2018"
-    }]
-  }
-]
+  }]
 ```
 
-==Highlight==
-
-### Image: ![alt](http://)
+### Image: \!\[alt\]\(http://\)
 ![alt](https://blog.codinghorror.com/content/images/2015/03/ghost-markdown-help.png)
 
 ### Unordered List: * item
@@ -53,6 +42,7 @@
 
 ### Blockquote: > quote
 > quote
+
 
 # H1: # Heading1
 
