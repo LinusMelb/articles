@@ -4,8 +4,37 @@
 
 ---
 
+### Callback function
+Every function has an optional parameter, callback, that can be passed into the function.
+
+
+For example, if we want to get all posts after we create a new post, we have to wait until the create operation has been done.
+Therefore, we can pass a callback(getPosts) to createPost function that will be execute after the creation.
+
+```Javascript
+let posts = [];
+
+createPost(post, callback) {
+  setTimeout(() =>{
+      posts.push(post);
+      /* after post has been created */
+      callback();
+  }, 2000);
+}
+
+getPosts(){
+  setTimeout(() =>{
+      console.log(posts);
+  }, 1000);
+}
+
+// We pass getPosts function as callback to createPost
+createPost(post, getPosts()); // It will print result after 3 seconds
+```
+
+---
 ### *Await* and *Sync*
-At first, Let me talk about the 2 keywords: await and sync
+Await and sync can resolve above issues in a more elegant way. So, let's look at these two keywords: await and sync
 
 
 ### Async functions
