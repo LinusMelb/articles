@@ -1,5 +1,5 @@
-## Personal profile
-#### Linus, 2018/10/06 11pm
+## My Resume & Profile
+#### Linus, 2018/10/06 11pm [Download resume](https://linusmelb.github.io/LinusPeng-resume.pdf)
 
 ### List of websites I've developed
 
