@@ -104,18 +104,18 @@ When npm installs a package it keeps a copy, so the next time you want to instal
     $ ls ~/.npm
 
 
-# This directory will get cluttered with old packages over time, so it’s useful to clean it up occasionally.
+### This directory will get cluttered with old packages over time, so it’s useful to clean it up occasionally.
 
     $ npm cache clean
 
 
-# You can also purge all node_module folders from your workspace if you have multiple node projects on your system you want to clean up.
+### You can also purge all node_module folders from your workspace if you have multiple node projects on your system you want to clean up.
 
     $ find . -name "node_modules" -type d -exec rm -rf '{}' +
     $ find . -name "linus"
 
 
-# Aliases
+### Aliases
 
 ```
 npm i <package> – install local package
@@ -128,6 +128,6 @@ npm ll or npm la – print additional package information while listing modules
 ```
 
 
-# Installs multiple packages at once
+### Installs multiple packages at once
 
     $ npm i express momemt lodash mongoose body-parser webpack
