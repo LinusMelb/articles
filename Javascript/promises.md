@@ -1,11 +1,12 @@
 ### Await, sync, callback and promises
 #### 2018/10/07 3pm
 #### Javascript promise is an important feature. It helps handle asynchronous request.
-There, I would like to write down the way I understand promises.
+#### Therefore, I would like to write down the way I understand promises.
+
 ---
 
-### **Await** and **Sync**
-Let me talk about these 2 keywords at first.  
+### *Await* and *Sync*
+At first, Let me talk about the 2 keywords: await and sync
 
 
 ### Async functions
@@ -22,5 +23,6 @@ f().then(() => {
   // output: The value returned by f() is 2018
 });
 
-
 ```
+
+### AwaitJavascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.Javascript promise is an important feature. It helps handle asynchronous request.

@@ -1,1 +1,22 @@
-[{"articles": [{"name": "markdown.md", "title": "Style and usage of markdown of the site", "created_at": "2018/10/06 11pm"}], "category": "About the site"}, {"articles": [{"name": "promises.md", "title": "Await, sync, callback and promises", "created_at": "2018/10/07 3pm"}], "category": "Javascript"}, {"articles": [{"name": "selfIntro.md", "title": "Personal profile", "created_at": "2018/10/06 11pm"}], "category": "About me"}]
+[{
+  "articles": [{
+    "name": "markdown.md",
+    "title": "Style and usage of markdown of the site",
+    "created_at": "2018/10/06 11pm"
+  }],
+  "category": "About the site"
+}, {
+  "articles": [{
+    "name": "promises.md",
+    "title": "Await, sync, callback and promises",
+    "created_at": "2018/10/07 3pm"
+  }],
+  "category": "Javascript"
+}, {
+  "articles": [{
+    "name": "selfIntro.md",
+    "title": "Personal profile",
+    "created_at": "2018/10/06 11pm"
+  }],
+  "category": "About me"
+}]
