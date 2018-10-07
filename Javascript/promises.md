@@ -1,6 +1,9 @@
-### Await, sync, callback and promises in JavaScript
+### Callback, promise and keywords: Await, sync in JavaScript
 #### Linus, 2018/10/07 3pm
-#### Javascript promise is an important feature. It helps handle asynchronous request. Therefore, I would like to write down the way I understand promises.
+#### This article will help you understand
+1. what callback function is and how to use it
+2. what promise is and how to write promise to handle asynchronous request.
+3. await and sync keywords
 
 ---
 
@@ -33,6 +36,7 @@ createPost(post, getPosts()); // It will print result after 3 seconds
 ```
 
 ---
+
 ### *Await* and *Sync*
 Await and sync can resolve above issues in a more elegant way. So, let's look at these two keywords: await and sync
 
